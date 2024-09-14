@@ -4,8 +4,8 @@
 
 기술 콘텐츠를 활용한 개발자 경험(Developer Experience) 설계에 관심이 있습니다.
 
-Hey there! I'm Bohyun, a developer with a passion for blending technology and communication. I strive to find the perfect harmony between the technical and the literary aspects of my work.
+Hey there! I'm Bohyun, a developer passionate about blending technology and communication. I strive to find the perfect harmony between the technical and the literary aspects of my work.
 
-I am interested in designing the Developer Experience through technical content.
+I am interested in designing developer experiences through technical content.
 
 > https://bohyunjung.com/

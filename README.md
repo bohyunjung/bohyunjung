@@ -1,11 +1,11 @@
 # Bohyun Jung
 
-안녕하세요, 연출하고 소통하는 개발자 정보현입니다. 기술적인 것과 문학적인 것, 그 사이 어딘가에서 균형을 찾고 있습니다.
+#### 연출하고 소통하는 개발자
 
-기술 콘텐츠를 활용한 개발자 경험(Developer Experience) 설계에 관심이 있습니다.
+기술을 잘 만드는 것만큼 잘 전달하는 것이 중요하다는 생각으로 일하고 있습니다. MongoDB에서 APAC 지역을 담당하는 시니어 개발자 어드보킷입니다.
 
-Hey there! I'm Bohyun, a developer passionate about blending technology and communication. I strive to find the perfect harmony between the technical and the literary aspects of my work.
+#### Developer and Storyteller
 
-I am interested in designing developer experiences through technical content.
+Building great technology matters, but communicating it effectively is what unlocks its real value. Currently a Senior Developer Advocate at MongoDB, working with developer communities across APAC.
 
-> https://bohyunjung.com/
+https://bohyunjung.com
